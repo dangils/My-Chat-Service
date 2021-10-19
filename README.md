@@ -8,16 +8,15 @@
 > 사용자의 닉네임은 이름은 미리 설정된 값을 조합하여 랜덤으로 생성  
 > 채팅 기록은 MongoDB에 저장,  
 > 서버에 재접속시 기존 채팅 내역이 출력   
-
-
   
-
+  
+  <br/>
 
 ```
 src/config 폴더에 dev.js (MongoURL) 생성
 npm run server
 ```
-
+  <br/>
 
 ![chat](https://user-images.githubusercontent.com/74512114/137923998-fc087f11-4ac9-455b-b97a-820d1e800751.gif)
 
